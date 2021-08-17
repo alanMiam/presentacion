@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, 
+    initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Blog de presentación</title>
+  </head>
+  <body>
+    <h1>Hola</h1>
+      <h2>Repositorio <a href=
+        "enlace">GIT</a> <h2>
+      <br>  
+      <h2>Persona<h2>    
+      <h3>Nombre: Alan Enrique Miam Martínez<h3>
+      <h3>Edad: 21 años<h3>
+      <h3>Estudiante de septimo semestre en 
+        ingeniería en sistemas computacionales<h3>
+      <h3>Dirección: Enrique Segoviano<h3>
+      <br>
+      <h2>Un día en la vida de...<h2>
+      <h3><h3>    
+  </body>
+</html>
