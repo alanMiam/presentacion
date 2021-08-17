@@ -10,7 +10,7 @@
   <body>
     <h1>Hola</h1>
       <h2>Repositorio <a href=
-        "enlace">GIT</a> <h2>
+        "https://github.com/alanMiam/presentacion">GIT</a> <h2>
       <br>  
       <h2>Persona<h2>    
       <h3>Nombre: Alan Enrique Miam Martínez<h3>
@@ -20,6 +20,15 @@
       <h3>Dirección: Enrique Segoviano<h3>
       <br>
       <h2>Un día en la vida de...<h2>
-      <h3><h3>    
-  </body>
+      <h3>¿Qué hace que su día sea exitoso?<h3>
+      <h3>¿Con qué personas y cosas interactúa?<h3>      
+      <h3>¿Qué le hace sentir satisfecho?<h3>
+      <h3>¿Qué lo frustra?<h3>
+        <br>
+      <h2>Metas y motivación<h2>
+      <h3>¿Qué quiere lograr?<h3>
+      <h3>¿Qué le da energía?<h3>
+      <h3>¿Qué lo detiene?<h3>
+      <h3>¿Qué lo mantiene despierto por la noche?<h3>          
+    </body>
 </html>
