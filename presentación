@@ -21,14 +21,22 @@
       <br>
       <h2>Un día en la vida de...<h2>
       <h3>¿Qué hace que su día sea exitoso?<h3>
-      <h3>¿Con qué personas y cosas interactúa?<h3>      
+        <h4>Aprender todo tipo de cosas nuevas<h4>
+      <h3>¿Con qué personas y cosas interactúa?<h3>
+        <h4>Compañeros de clase, cominudades en internet y equipo de computo y mecanico<h4>      
       <h3>¿Qué le hace sentir satisfecho?<h3>
+        <h4>Optener resoltados positivos o avances en las actividades que realizo<h4>
       <h3>¿Qué lo frustra?<h3>
+        <h4>Demorar demasiado en encontrar soluciones<h4>
         <br>
       <h2>Metas y motivación<h2>
       <h3>¿Qué quiere lograr?<h3>
+        <h4>Desarrollar aplicaciones utiles y estéticas<h4>
       <h3>¿Qué le da energía?<h3>
+          <h4>Las ganas de aprender<h4>
       <h3>¿Qué lo detiene?<h3>
-      <h3>¿Qué lo mantiene despierto por la noche?<h3>          
+          <h4>Limitaciones técnicas de mi equipo de cómputo<h4>
+      <h3>¿Qué lo mantiene despierto por la noche?<h3> 
+          <h4>El insomnio, las tareas y videos interesantes de youtube<h4>         
     </body>
 </html>
